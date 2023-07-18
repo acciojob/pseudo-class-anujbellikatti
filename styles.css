@@ -1,9 +1,9 @@
 /*  your css code here. If applicable */
-.x:before{
+.x::before{
 	content : "Before Eement";
 	color:red;
 }
-.x:after{
+.x::after{
 	content : "After Eement";
 	color:red;
 }
